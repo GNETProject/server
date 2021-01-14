@@ -1,0 +1,11 @@
+{
+
+    "domain": "http://localhost",
+    "port": 8080,
+
+    "cdn": {
+        "domain": "http://localhost:8181",
+        "port": 8181
+    }
+
+}
