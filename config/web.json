@@ -6,6 +6,20 @@
     "cdn": {
         "domain": "http://localhost:8181",
         "port": 8181
+    },
+
+    "admin": {
+
+        "uri": "/admin",
+        "enabled": false,
+        "admins": [
+
+            {
+                "username": "Administrator",
+                "password": "P@55w0rd123"
+            }
+
+        ]
     }
 
 }
