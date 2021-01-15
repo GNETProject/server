@@ -1,0 +1,25 @@
+{
+
+    "domain": "http://localhost:8080",
+    "port": 8080,
+
+    "cdn": {
+        "domain": "http://localhost:8181",
+        "port": 8181
+    },
+
+    "admin": {
+
+        "uri": "/admin",
+        "enabled": false,
+        "admins": [
+
+            {
+                "username": "Administrator",
+                "password": "P@55w0rd123"
+            }
+
+        ]
+    }
+
+}
